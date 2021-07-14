@@ -11,7 +11,7 @@
 
 ### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Jesiel\nPalacios-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesiel-palacios-co/)
+[![Linkedin Badge](https://img.shields.io/badge/-Jesiel\n Palacios-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesiel-palacios-co/)
 
 <br />
 
