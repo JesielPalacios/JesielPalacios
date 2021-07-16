@@ -36,7 +36,7 @@
 
 ---
 
-[website]: https://
+[website]: https://jesielpalacios.github.io
 [linkedin]: https://linkedin.com/in/jesiel-palacios-co
 
 
