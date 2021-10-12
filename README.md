@@ -3,7 +3,7 @@
 ## I am a passionate self-taught Full Stack developer!!
 
 - :computer: You can see my portfolio at [my website][website].
-- 🌱 I am currently learning systems design and backend dev.
+- 🌱 I am currently learning systems design.
 - 🥅 2021 Goals: Develop the best web applications.
 - 👯 I am looking to collaborate with companies or in commercial projects.
 - :paperclip: [My Resume/CV](https://drive.google.com/uc?export=download&id=1_MBh0XYkW6ykC5gV5xEO79IfD2CGovqk).
@@ -49,6 +49,15 @@
 - 🌱 I’m currently learning tecnologies like Docker, Cyber Security intensive course and self-dough english learning...
 - 💞️ I’m looking to collaborate on projects related to python and Machine Learning...
 - 📫 How to reach me: linkedIn like ... -->
+
+<!-- - ## I am a passionate self-taught Full Stack developer!!
+
+- :computer: You can see my portfolio at [my website][website].
+- 🌱 I am currently learning systems design and backend dev.
+- 🥅 2021 Goals: Develop the best web applications.
+- 👯 I am looking to collaborate with companies or in commercial projects.
+- :paperclip: [My Resume/CV](https://drive.google.com/uc?export=download&id=1_MBh0XYkW6ykC5gV5xEO79IfD2CGovqk).
+- ⚡ Fun fact: I love sports and video games. -->
 
 <!---
 JesielPalacios/JesielPalacios is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
