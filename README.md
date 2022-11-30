@@ -4,7 +4,7 @@
 
 - :computer: You can see my portfolio at [my website][website].
 - 🌱 I am currently learning systems design.
-- 🥅 2021 Goals: Develop the best web applications.
+- 🥅 2022 Goals: Develop the best web applications.
 - 👯 I am looking to collaborate with companies or in commercial projects.
 - :paperclip: [My Resume/CV](https://drive.google.com/uc?export=download&id=1_MBh0XYkW6ykC5gV5xEO79IfD2CGovqk).
 - ⚡ Fun fact: I love sports and video games.
